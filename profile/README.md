@@ -4,11 +4,7 @@
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/f2/51/13f2512d-494d-2573-b671-f2b599c614ef/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.jpg" alt="Panda Dome Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://panda-dome.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_Panda_Dome-blue?style=for-the-badge&logo=shield" alt="Get Panda Dome"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://ruthwhitei341.github.io/.github/Panda-Dome)
 
 ---
 
